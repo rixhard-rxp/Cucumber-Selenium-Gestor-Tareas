@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pruebas.CucumberTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.712 s -- in com.pruebas.CucumberTest
